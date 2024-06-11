@@ -3,8 +3,8 @@ import json
 import os
 import logging
 
-CLIENT_ID = os.getenv('CLIENT_ID')
-CLIENT_SECRET = os.getenv('CLIENT_SECRET')
+CLIENT_ID = os.getenv('iZ6BVr8SIeWdQPNE9bz9Q')
+CLIENT_SECRET = os.getenv('k6OPn14WekgEvyZS8bkz4kO3O0Tv23G9')
 TOKEN_FILE = 'zoom_tokens.json'
 
 # Configure logging

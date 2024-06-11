@@ -2,12 +2,10 @@
   "version": 2,
   "builds": [
     {
-      "src": "zoom3.py",
+      "src": "api/cron.py",
       "use": "@vercel/python"
     }
-  ],
-  "routes": [
-    { "handle": "filesystem" }
   ]
 }
+
 
